@@ -1,122 +1,75 @@
 # Víctor Moreno Durà
-## Senior Android Developer
 
-> [victor.mordur@gmail.com](victor.mordur@gmail.com)  
-> +34 609 24 29 73
+### Senior Android Developer
 
-------
+[victor.mordur@gmail.com](victor.mordur@gmail.com)  
+ +34 609 24 29 73
+ 
+ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp; ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### Profile
+
+:es: Spanish (Native)  &nbsp; :uk: English (Advanced) &nbsp; :de: German (Intermediate)
+
+## Profile
 
 Android developer with a background on secure payments, personal health data, privacy and encryption.
 
+## Education
 
-------
+**Telecommunications Engineering** // UPC (ETSETB) // _2007_
 
-### Languages
+## Technical Skills
 
-* Spanish
-  : Native
+**Kotlin & Java** // Main programming languages.
 
-* Catalan
-  : Native
+**Android** // Main mobile platform.
 
-* English
-  : Advanced
+**SQL, RESTful APIs** // Command of relational database and backend services interaction.
 
-* German
-  : Intermediate
+**Testing** // Unit, integration and UI tests.
+
+**App architecture & design patterns** // App design as well as generic software design patterns.
+
+**Security & Encryption** // Best practices and most common algorithms.
+
+## Technologies
 
 
-------
+![](https://img.shields.io/badge/-Android_SDK-green)&nbsp;![](https://img.shields.io/badge/-Android_Compose-green)&nbsp;
+![](https://img.shields.io/badge/-Coroutines-blue)&nbsp;![](https://img.shields.io/badge/-Flow-blue)&nbsp;![](https://img.shields.io/badge/-RxJava-blue)&nbsp;
+![](https://img.shields.io/badge/-Kotlin_Multipltform-blueviolet)&nbsp;![](https://img.shields.io/badge/-Kotlin_Native-blueviolet)&nbsp;
+![](https://img.shields.io/badge/-Retrofit-orange)&nbsp;![](https://img.shields.io/badge/-Ktor-orange)&nbsp;
+![](https://img.shields.io/badge/-SQLite-red)&nbsp;![](https://img.shields.io/badge/-SQLDelight-red)&nbsp;![](https://img.shields.io/badge/-SQCipher-red)&nbsp;![](https://img.shields.io/badge/-Realm-red)&nbsp;
+![](https://img.shields.io/badge/-JUnit-black)&nbsp;![](https://img.shields.io/badge/-Robolectric-black)&nbsp;![](https://img.shields.io/badge/-Espresso-black)&nbsp;
+![](https://img.shields.io/badge/-Dagger-yellowgreen)&nbsp;![](https://img.shields.io/badge/-Koin-yellowgreen)&nbsp;
+![](https://img.shields.io/badge/-Git-lightgrey)&nbsp;
+![](https://img.shields.io/badge/-Javascript-ff69b4)&nbsp;![](https://img.shields.io/badge/-HTML-ff69b4)&nbsp;![](https://img.shields.io/badge/-CSS-ff69b4)&nbsp;
+![](https://img.shields.io/badge/-OAuth-yellow)&nbsp;![](https://img.shields.io/badge/-JWT-yellow)&nbsp;
+![](https://img.shields.io/badge/-NFC-9cf)&nbsp;![](https://img.shields.io/badge/-SmartCard_(S/E)_-9cf)&nbsp;![](https://img.shields.io/badge/-HC-9cf) 
 
-### Technical Skills
+## Experience
 
-* Kotlin & Java
-  : Main programming languages.
-
-* Android
-  : Main mobile platform.
-
-* SQL, RESTful APIs
-  : Command of relational database and backend services interaction.
-
-* Testing
-  : Unit, integration and UI tests.
-
-* App architecture & design patterns
-  : App desing as well as generic software desing patterns.
-
-* Security & Encryption
-  : Best practices and most common algorithms.
-
--------
-
-### Technologies
-
-1. Android SDK, Android Compose
-1. Coroutines, Flows, RxJava
-1. Kotlin Multipltform, Kotlin Native
-1. Retrofit, Ktor
-1. SQLite, SQLDelight, SQLCipher, Realm
-1. JUnit, Roboelectric, Espresso
-1. Dagger, Koin
-1. Maven, Gradle
-1. Git
-1. Javascript, HTML, CSS
-1. OAuth, JWT
-1. NFC, SmartCard (S/E), HCE
-
-------
-
-### Experience
-
-D4L data4life gGmbH
-: *Senior Android Developer (Personal health data)*
-  __2018-Present__
+**D4L data4life gGmbH** // Senior Android Developer (Personal health data) // *2018-Present*
   
-Sage
-: *Android Developer (Accounting)*
-  __2017-2018__
+**Sage** // Android Developer (Accounting) // *2017-2018*
 
-Toro Development Ltd.
-: *Mobile Software Developer & NFC Payments engineer (Payments and Loyalty)*
-  __2012-2017__
+**Toro Development Ltd.** // Mobile Software Developer & NFC Payments engineer (Payments and Loyalty) // *2012-2017*
   
-SEAT, S.A.
-: *Project Controller & Application Service Officer (Automotive)*
-  __2008-2012__
+**SEAT, S.A.** // Project Controller & Application Service Officer (Automotive) // *2008-2012*
 
-Capgemini
-: *C/C++ Junior Software Developer (Power grid management)*
-  __2008__
+**Capgemini** // C/C++ Junior Software Developer (Power grid management) // *2008*
 
 
--------
+## Soft Skills
 
-### Soft Skills
-
-1. Team player
-1. Fast-learner 
-1. Creative
-1. Commited
-1. Flexible
+:raised_hands: Team player  &nbsp;  :nerd_face: Fast-learner &nbsp;  :bulb: Creative &nbsp; :muscle: Committed  &nbsp; :handshake: Flexible 
 
 
--------
+## Interests
 
-### Interests
-
-1. Travelling
-1. Environment
-1. Food
-1. Books
-1. Outdoor activities
-1. (Soft) Martial arts
+:airplane: Travelling, &nbsp; :seedling: Environment, &nbsp; :ramen: Food, &nbsp; :book: Books, &nbsp; :tent: Outdoor activities, &nbsp; :martial_arts_uniform: (Soft) Martial arts
 
 
 ------
 
-> [Download PDF](my_resume.pdf)
-
-------
+[Download PDF]()
