@@ -11,15 +11,21 @@ From sunny Barcelona since 1982
 
 <img src="https://github.com/vmordur/resume/blob/main/images/flag_es.svg" width="16" height="9"> Spanish (Native) &nbsp; <img src="https://github.com/vmordur/resume/blob/main/images/flag_cat.svg" width="16" height="9"> Catalan (Native) &nbsp; <img src="https://github.com/vmordur/resume/blob/main/images/flag_uk.svg" width="16" height="9"> English (Advanced) &nbsp; <img src="https://github.com/vmordur/resume/blob/main/images/flag_de.svg" width="16" height="9"> German (Intermediate)
 
-## Profile
+---------
+
+### Profile
 
 Android developer with background on contactless payments, personal health data, privacy and encryption.
 
-## Education
+---------
+
+### Education
 
 **Telecommunications Engineering** // UPC (ETSETB) // _2007_
 
-## Technical Skills
+---------
+
+### Technical Skills
 
 **Kotlin & Java** // Main programming languages.
 
@@ -31,9 +37,11 @@ Android developer with background on contactless payments, personal health data,
 
 **App architecture & design patterns** // Knowledge of app design as well as generic software design patterns.
 
-**Security & Encryption** // Familiarity with best practices and most common algorithms.
+**Security & Encryption** // Familiar with best practices and most common algorithms.
 
-## Technologies
+---------
+
+### Technologies
 
 
 ![](https://img.shields.io/badge/-Android_SDK-brightgreen)&nbsp;![](https://img.shields.io/badge/-Android_Compose-brightgreen)&nbsp;
@@ -49,33 +57,29 @@ Android developer with background on contactless payments, personal health data,
 ![](https://img.shields.io/badge/-NFC-9cf)&nbsp;![](https://img.shields.io/badge/-SmartCard_(S/E)_-9cf)&nbsp;![](https://img.shields.io/badge/-HCE-9cf)&nbsp;
 ![](https://img.shields.io/badge/-HL7_FHIR-green)
 
-## Experience
+---------
 
-![](https://img.shields.io/badge/2018-Present-brightgreen)\
-**D4L data4life gGmbH** // Senior Android Developer (Personal health data) 
-  
-![](https://img.shields.io/badge/2017-2018-brightgreen)\
- **Sage** // Android Developer (Accounting) 
+### Experience
 
-![](https://img.shields.io/badge/2012-2017-brightgreen)\ 
-**Toro Development Ltd.** // Mobile Developer & NFC Payments engineer (Payments and Loyalty) 
-  
-![](https://img.shields.io/badge/2008-2012-brightgreen)\
-**SEAT, S.A.** // Project Controller & Application Service Officer (Automotive) 
+| Period | Company | Industry | Position |
+| --- | --- | --- | --- |
+| _2018 - Present_  |  **D4L data4life gGmbH**     |  Personal health data  | Senior Android Developer                         | 
+| _2017 - 2018_     |  **Sage**                    |  Accounting            | Android Developer                                |
+| _2012 - 2017_     |  **Toro Development Ltd.**   |  Payments and Loyalty  | Mobile Developer & NFC Payments engineer.        |
+| _2008 - 2012_     |  **SEAT, S.A.**              |  Automotive            | Project Controller & Application Service Officer |  
+| _2008_            |  **Capgemini**               |  Power grid management | C/C++ Junior Software Developer                  |
 
-![](https://img.shields.io/badge/-2008-brightgreen)\
- **Capgemini** // C/C++ Junior Software Developer (Power grid management) 
-
-
-## Soft Skills
+--------- 
+ 
+### Soft Skills
 
 :raised_hands: Team player  &nbsp;  :nerd_face: Fast-learner &nbsp;  :bulb: Creative &nbsp; :muscle: Committed  &nbsp; :handshake: Flexible 
 
+---------
 
-## Interests
+### Interests
 
 :airplane: Travelling, &nbsp; :seedling: Environment, &nbsp; :ramen: Food, &nbsp; :book: Books, &nbsp; :tent: Outdoor activities, &nbsp; :martial_arts_uniform: Martial arts
-
 
 ------
 
