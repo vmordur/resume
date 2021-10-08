@@ -9,7 +9,10 @@
 
 From sunny Barcelona since 1982
 
-<img src="https://github.com/vmordur/resume/blob/main/images/flag_es.svg" width="16" height="9"> Spanish (Native) &nbsp; <img src="https://github.com/vmordur/resume/blob/main/images/flag_cat.svg" width="16" height="9"> Catalan (Native) &nbsp; <img src="https://github.com/vmordur/resume/blob/main/images/flag_uk.svg" width="16" height="9"> English (Advanced) &nbsp; <img src="https://github.com/vmordur/resume/blob/main/images/flag_de.svg" width="16" height="9"> German (Intermediate)
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_es.svg" width="20" height="10"> Spanish (Native) &nbsp;</ld></nobr>
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_cat.svg" width="20" height="10"> Catalan (Native) &nbsp;</ld></nobr>
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_uk.svg" width="20" height="10"> English (Advanced) &nbsp;</ld></nobr>
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_de.svg" width="20" height="10"> German (Intermediate) &nbsp;</ld></nobr>
 
 ---------
 
@@ -73,13 +76,22 @@ Android developer with background on contactless payments, personal health data,
  
 ### Soft Skills
 
-:raised_hands: Team player  &nbsp;  :nerd_face: Fast-learner &nbsp;  :bulb: Creative &nbsp; :muscle: Committed  &nbsp; :handshake: Flexible 
+<td><nobr>:raised_hands: Team player &nbsp;</td></nobr>
+<td><nobr>:nerd_face: Fast-learner &nbsp;</td></nobr>
+<td><nobr>:bulb: Creative &nbsp;</td></nobr>
+<td><nobr>:muscle: Committed &nbsp;</td></nobr>
+<td><nobr>:handshake: Flexible &nbsp;</td></nobr>
 
 ---------
 
 ### Interests
 
-:airplane: Travelling, &nbsp; :seedling: Environment, &nbsp; :ramen: Food, &nbsp; :book: Books, &nbsp; :tent: Outdoor activities, &nbsp; :martial_arts_uniform: Martial arts
+<td><nobr>:airplane: Travelling &nbsp;</td></nobr>
+<td><nobr>:seedling: Environment &nbsp;</td></nobr>
+<td><nobr>:ramen: Food &nbsp;</td></nobr>
+<ld><nobr>:book: Books &nbsp;</ld></nobr>
+<ld><nobr>:tent: Outdoor activities &nbsp;</ld></nobr>
+<td><nobr>:martial_arts_uniform: Martial arts &nbsp;</td></nobr>
 
 ------
 
