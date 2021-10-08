@@ -34,11 +34,13 @@ Android developer with background on contactless payments, personal health data,
 
 **Android** // Main mobile platform.
 
-**SQL, RESTful APIs** // Command of relational database and backend services interaction.
+**SQL, RESTful APIs** // Command of relational databases and backend services interaction.
 
 **Testing** // Experience with unit, integration and UI tests.
 
 **App architecture & design patterns** // Knowledge of app design as well as generic software design patterns.
+
+**Conitnuous Integration/Deployment** // Kown-how on automatic build, test, and release pipelines.
 
 **Security & Encryption** // Familiar with best practices and most common algorithms.
 
@@ -55,6 +57,7 @@ Android developer with background on contactless payments, personal health data,
 ![](https://img.shields.io/badge/-JUnit-black)&nbsp;![](https://img.shields.io/badge/-Robolectric-black)&nbsp;![](https://img.shields.io/badge/-Espresso-black)&nbsp;
 ![](https://img.shields.io/badge/-Dagger-yellowgreen)&nbsp;![](https://img.shields.io/badge/-Koin-yellowgreen)&nbsp;
 ![](https://img.shields.io/badge/-Git-lightgrey)&nbsp;
+![](https://img.shields.io/badge/-Maven-brown)&nbsp;![](https://img.shields.io/badge/-Gradle-brown)&nbsp;![](https://img.shields.io/badge/-Jenkins-brown)&nbsp;![](https://img.shields.io/badge/-Github_Actions-brown)&nbsp;
 ![](https://img.shields.io/badge/-Javascript-ff69b4)&nbsp;![](https://img.shields.io/badge/-HTML-ff69b4)&nbsp;![](https://img.shields.io/badge/-CSS-ff69b4)&nbsp;
 ![](https://img.shields.io/badge/-OAuth-yellow)&nbsp;![](https://img.shields.io/badge/-JWT-yellow)&nbsp;
 ![](https://img.shields.io/badge/-NFC-9cf)&nbsp;![](https://img.shields.io/badge/-SmartCard_(S/E)_-9cf)&nbsp;![](https://img.shields.io/badge/-HCE-9cf)&nbsp;
