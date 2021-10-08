@@ -11,10 +11,10 @@ From sunny Barcelona since 1982
 
 <!--- PDF_ADD<Speaks Spanish (Native), Catalan (Native), English (Advanced) and German (Intermediate).!> --->
 
-<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_es.svg" width="20" height="10"> Spanish (Native) &nbsp;</ld></nobr> <!--- PDF_REMOVE --->
-<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_cat.svg" width="20" height="10"> Catalan (Native) &nbsp;</ld></nobr> <!--- PDF_REMOVE --->
-<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_uk.svg" width="20" height="10"> English (Advanced) &nbsp;</ld></nobr> <!--- PDF_REMOVE --->
-<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_de.svg" width="20" height="10"> German (Intermediate) &nbsp;</ld></nobr> <!--- PDF_REMOVE --->
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_es.svg" width="20" height="10"> Spanish (Native) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_cat.svg" width="20" height="10"> Catalan (Native) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_uk.svg" width="20" height="10"> English (Advanced) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_de.svg" width="20" height="10"> German (Intermediate) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
 
 ---------
 
@@ -65,20 +65,20 @@ Android developer with background on contactless payments, personal health data,
 <!--- PDF_ADD<- NFC, SmartCard (S/E), HCE.!> --->
 <!--- PDF_ADD<- HL7 FHIR.!> --->
 
-![](https://img.shields.io/badge/-Android_SDK-brightgreen)&nbsp;![](https://img.shields.io/badge/-Android_Compose-brightgreen)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-Coroutines-blue)&nbsp;![](https://img.shields.io/badge/-Flows-blue)&nbsp;![](https://img.shields.io/badge/-RxJava-blue)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-Kotlin_Multipltform-blueviolet)&nbsp;![](https://img.shields.io/badge/-Kotlin_Native-blueviolet)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-Retrofit-orange)&nbsp;![](https://img.shields.io/badge/-Ktor-orange)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-SQLite-red)&nbsp;![](https://img.shields.io/badge/-SQLDelight-red)&nbsp;![](https://img.shields.io/badge/-SQLCipher-red)&nbsp;![](https://img.shields.io/badge/-Realm-red)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-JUnit-black)&nbsp;![](https://img.shields.io/badge/-Robolectric-black)&nbsp;![](https://img.shields.io/badge/-Espresso-black)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-Dagger-yellowgreen)&nbsp;![](https://img.shields.io/badge/-Koin-yellowgreen)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-Git-lightgrey)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-Maven-brown)&nbsp;![](https://img.shields.io/badge/-Gradle-brown)&nbsp;![](https://img.shields.io/badge/-Jenkins-turquoise)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-Github_Actions-turquoise)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-Javascript-ff69b4)&nbsp;![](https://img.shields.io/badge/-HTML-ff69b4)&nbsp;![](https://img.shields.io/badge/-CSS-ff69b4)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-OAuth-yellow)&nbsp;![](https://img.shields.io/badge/-JWT-yellow)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-NFC-9cf)&nbsp;![](https://img.shields.io/badge/-SmartCard_(S/E)_-9cf)&nbsp;![](https://img.shields.io/badge/-HCE-9cf)&nbsp; <!--- PDF_REMOVE --->
-![](https://img.shields.io/badge/-HL7_FHIR-green) <!--- PDF_REMOVE --->
+![](https://img.shields.io/badge/-Android_SDK-brightgreen)&nbsp;![](https://img.shields.io/badge/-Android_Compose-brightgreen)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-Coroutines-blue)&nbsp;![](https://img.shields.io/badge/-Flows-blue)&nbsp;![](https://img.shields.io/badge/-RxJava-blue)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-Kotlin_Multipltform-blueviolet)&nbsp;![](https://img.shields.io/badge/-Kotlin_Native-blueviolet)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-Retrofit-orange)&nbsp;![](https://img.shields.io/badge/-Ktor-orange)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-SQLite-red)&nbsp;![](https://img.shields.io/badge/-SQLDelight-red)&nbsp;![](https://img.shields.io/badge/-SQLCipher-red)&nbsp;![](https://img.shields.io/badge/-Realm-red)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-JUnit-black)&nbsp;![](https://img.shields.io/badge/-Robolectric-black)&nbsp;![](https://img.shields.io/badge/-Espresso-black)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-Dagger-yellowgreen)&nbsp;![](https://img.shields.io/badge/-Koin-yellowgreen)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-Git-lightgrey)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-Maven-brown)&nbsp;![](https://img.shields.io/badge/-Gradle-brown)&nbsp;![](https://img.shields.io/badge/-Jenkins-turquoise)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-Github_Actions-turquoise)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-Javascript-ff69b4)&nbsp;![](https://img.shields.io/badge/-HTML-ff69b4)&nbsp;![](https://img.shields.io/badge/-CSS-ff69b4)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-OAuth-yellow)&nbsp;![](https://img.shields.io/badge/-JWT-yellow)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-NFC-9cf)&nbsp;![](https://img.shields.io/badge/-SmartCard_(S/E)_-9cf)&nbsp;![](https://img.shields.io/badge/-HCE-9cf)&nbsp; <!-- PDF_REMOVE -->
+![](https://img.shields.io/badge/-HL7_FHIR-green) <!-- PDF_REMOVE -->
 ---------
 
 ### Experience
