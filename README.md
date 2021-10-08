@@ -7,12 +7,13 @@
  
  ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp; ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+From sunny Barcelona since 1982
 
 :es: Spanish (Native)  &nbsp; :uk: English (Advanced) &nbsp; :de: German (Intermediate)
 
 ## Profile
 
-Android developer with a background on secure payments, personal health data, privacy and encryption.
+Android developer with background on contactless payments, personal health data, privacy and encryption.
 
 ## Education
 
@@ -35,7 +36,7 @@ Android developer with a background on secure payments, personal health data, pr
 ## Technologies
 
 
-![](https://img.shields.io/badge/-Android_SDK-green)&nbsp;![](https://img.shields.io/badge/-Android_Compose-green)&nbsp;
+![](https://img.shields.io/badge/-Android_SDK-brightgreen)&nbsp;![](https://img.shields.io/badge/-Android_Compose-brightgreen)&nbsp;
 ![](https://img.shields.io/badge/-Coroutines-blue)&nbsp;![](https://img.shields.io/badge/-Flow-blue)&nbsp;![](https://img.shields.io/badge/-RxJava-blue)&nbsp;
 ![](https://img.shields.io/badge/-Kotlin_Multipltform-blueviolet)&nbsp;![](https://img.shields.io/badge/-Kotlin_Native-blueviolet)&nbsp;
 ![](https://img.shields.io/badge/-Retrofit-orange)&nbsp;![](https://img.shields.io/badge/-Ktor-orange)&nbsp;
@@ -45,19 +46,25 @@ Android developer with a background on secure payments, personal health data, pr
 ![](https://img.shields.io/badge/-Git-lightgrey)&nbsp;
 ![](https://img.shields.io/badge/-Javascript-ff69b4)&nbsp;![](https://img.shields.io/badge/-HTML-ff69b4)&nbsp;![](https://img.shields.io/badge/-CSS-ff69b4)&nbsp;
 ![](https://img.shields.io/badge/-OAuth-yellow)&nbsp;![](https://img.shields.io/badge/-JWT-yellow)&nbsp;
-![](https://img.shields.io/badge/-NFC-9cf)&nbsp;![](https://img.shields.io/badge/-SmartCard_(S/E)_-9cf)&nbsp;![](https://img.shields.io/badge/-HC-9cf) 
+![](https://img.shields.io/badge/-NFC-9cf)&nbsp;![](https://img.shields.io/badge/-SmartCard_(S/E)_-9cf)&nbsp;![](https://img.shields.io/badge/-HCE-9cf)&nbsp;
+![](https://img.shields.io/badge/-HL7_FHIR-green)
 
 ## Experience
 
-**D4L data4life gGmbH** // Senior Android Developer (Personal health data) // *2018-Present*
+![](https://img.shields.io/badge/2018-Present-brightgreen) &nbsp; 
+**D4L data4life gGmbH** // Senior Android Developer (Personal health data) 
   
-**Sage** // Android Developer (Accounting) // *2017-2018*
+![](https://img.shields.io/badge/2017-2018-brightgreen) &nbsp; 
+ **Sage** // Android Developer (Accounting) 
 
-**Toro Development Ltd.** // Mobile Software Developer & NFC Payments engineer (Payments and Loyalty) // *2012-2017*
+![](https://img.shields.io/badge/2012-2017-brightgreen) &nbsp; 
+**Toro Development Ltd.** // Mobile Developer & NFC Payments engineer (Payments and Loyalty) 
   
-**SEAT, S.A.** // Project Controller & Application Service Officer (Automotive) // *2008-2012*
+![](https://img.shields.io/badge/2008-2012-brightgreen) &nbsp; 
+**SEAT, S.A.** // Project Controller & Application Service Officer (Automotive) 
 
-**Capgemini** // C/C++ Junior Software Developer (Power grid management) // *2008*
+![](https://img.shields.io/badge/-2008-brightgreen) &nbsp;
+ **Capgemini** // C/C++ Junior Software Developer (Power grid management) 
 
 
 ## Soft Skills
