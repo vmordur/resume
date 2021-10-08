@@ -9,7 +9,7 @@
 
 From sunny Barcelona since 1982
 
-:es: Spanish (Native)  &nbsp; :uk: English (Advanced) &nbsp; :de: German (Intermediate)
+<img src="https://github.com/vmordur/resume/blob/main/images/flag_es.svg" width="16" height="9"> Spanish (Native) &nbsp; <img src="https://github.com/vmordur/resume/blob/main/images/flag_cat.svg" width="16" height="9"> Catalan (Native) &nbsp; <img src="https://github.com/vmordur/resume/blob/main/images/flag_uk.svg" width="16" height="9"> English (Advanced) &nbsp; <img src="https://github.com/vmordur/resume/blob/main/images/flag_de.svg" width="16" height="9"> German (Intermediate)
 
 ## Profile
 
