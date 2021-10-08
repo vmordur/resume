@@ -9,6 +9,8 @@
 
 From sunny Barcelona since 1982
 
+<!--- PDF_ADD<Speaks Spanish (Native), Catalan (Native), English (Advanced) and German (Intermediate).> -->
+
 <ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_es.svg" width="20" height="10"> Spanish (Native) &nbsp;</ld></nobr>
 <ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_cat.svg" width="20" height="10"> Catalan (Native) &nbsp;</ld></nobr>
 <ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_uk.svg" width="20" height="10"> English (Advanced) &nbsp;</ld></nobr>
@@ -48,21 +50,34 @@ Android developer with background on contactless payments, personal health data,
 
 ### Technologies
 
+<!--- PDF_ADD<- Android SDK, Android Compose.> -->
+<!--- PDF_ADD<- Coroutines, Flows, RxJava.> -->
+<!--- PDF_ADD<- Kotlin Multiplatform, Kotlin Native.> -->
+<!--- PDF_ADD<- Retrofit, Ktor.> -->
+<!--- PDF_ADD<- SQLite, SQLDelight, SQLCipher, Realm.> -->
+<!--- PDF_ADD<- JUnit, Roboelectric, Espresso.> -->
+<!--- PDF_ADD<- Dagger, Koin.> -->
+<!--- PDF_ADD<- Git.> -->
+<!--- PDF_ADD<- Maven, Gradle.> -->
+<!--- PDF_ADD<- Jenkins, Github Actions.> -->
+<!--- PDF_ADD<- Javascript, HTML, CSS.> -->
+<!--- PDF_ADD<- OAuth, JWT.> -->
+<!--- PDF_ADD<- NFC, SmartCard (S/E), HCE.> -->
+<!--- PDF_ADD<- HL7 FHIR.> -->
 
 ![](https://img.shields.io/badge/-Android_SDK-brightgreen)&nbsp;![](https://img.shields.io/badge/-Android_Compose-brightgreen)&nbsp;
-![](https://img.shields.io/badge/-Coroutines-blue)&nbsp;![](https://img.shields.io/badge/-Flow-blue)&nbsp;![](https://img.shields.io/badge/-RxJava-blue)&nbsp;
+![](https://img.shields.io/badge/-Coroutines-blue)&nbsp;![](https://img.shields.io/badge/-Flows-blue)&nbsp;![](https://img.shields.io/badge/-RxJava-blue)&nbsp;
 ![](https://img.shields.io/badge/-Kotlin_Multipltform-blueviolet)&nbsp;![](https://img.shields.io/badge/-Kotlin_Native-blueviolet)&nbsp;
 ![](https://img.shields.io/badge/-Retrofit-orange)&nbsp;![](https://img.shields.io/badge/-Ktor-orange)&nbsp;
-![](https://img.shields.io/badge/-SQLite-red)&nbsp;![](https://img.shields.io/badge/-SQLDelight-red)&nbsp;![](https://img.shields.io/badge/-SQCipher-red)&nbsp;![](https://img.shields.io/badge/-Realm-red)&nbsp;
+![](https://img.shields.io/badge/-SQLite-red)&nbsp;![](https://img.shields.io/badge/-SQLDelight-red)&nbsp;![](https://img.shields.io/badge/-SQLCipher-red)&nbsp;![](https://img.shields.io/badge/-Realm-red)&nbsp;
 ![](https://img.shields.io/badge/-JUnit-black)&nbsp;![](https://img.shields.io/badge/-Robolectric-black)&nbsp;![](https://img.shields.io/badge/-Espresso-black)&nbsp;
 ![](https://img.shields.io/badge/-Dagger-yellowgreen)&nbsp;![](https://img.shields.io/badge/-Koin-yellowgreen)&nbsp;
 ![](https://img.shields.io/badge/-Git-lightgrey)&nbsp;
-![](https://img.shields.io/badge/-Maven-brown)&nbsp;![](https://img.shields.io/badge/-Gradle-brown)&nbsp;![](https://img.shields.io/badge/-Jenkins-brown)&nbsp;![](https://img.shields.io/badge/-Github_Actions-brown)&nbsp;
+![](https://img.shields.io/badge/-Maven-brown)&nbsp;![](https://img.shields.io/badge/-Gradle-brown)&nbsp;![](https://img.shields.io/badge/-Jenkins-turquoise)&nbsp;![](https://img.shields.io/badge/-Github_Actions-turquoise)&nbsp;
 ![](https://img.shields.io/badge/-Javascript-ff69b4)&nbsp;![](https://img.shields.io/badge/-HTML-ff69b4)&nbsp;![](https://img.shields.io/badge/-CSS-ff69b4)&nbsp;
 ![](https://img.shields.io/badge/-OAuth-yellow)&nbsp;![](https://img.shields.io/badge/-JWT-yellow)&nbsp;
 ![](https://img.shields.io/badge/-NFC-9cf)&nbsp;![](https://img.shields.io/badge/-SmartCard_(S/E)_-9cf)&nbsp;![](https://img.shields.io/badge/-HCE-9cf)&nbsp;
-![](https://img.shields.io/badge/-HL7_FHIR-green)
-
+![](https://img.shields.io/badge/-HL7_FHIR-green) <!--- PDF_REMOVE -->
 ---------
 
 ### Experience
@@ -79,22 +94,26 @@ Android developer with background on contactless payments, personal health data,
  
 ### Soft Skills
 
-<td><nobr>:raised_hands: Team player &nbsp;</td></nobr>
-<td><nobr>:nerd_face: Fast-learner &nbsp;</td></nobr>
-<td><nobr>:bulb: Creative &nbsp;</td></nobr>
-<td><nobr>:muscle: Committed &nbsp;</td></nobr>
-<td><nobr>:handshake: Flexible &nbsp;</td></nobr>
+<!--- PDF_ADD<Team player, fast-learner, creative, committed and flexible.> -->
+
+<td><nobr>:raised_hands: Team player &nbsp;</td></nobr>  <!--- PDF_REMOVE -->
+<td><nobr>:nerd_face: Fast-learner &nbsp;</td></nobr>  <!--- PDF_REMOVE -->
+<td><nobr>:bulb: Creative &nbsp;</td></nobr>  <!--- PDF_REMOVE -->
+<td><nobr>:muscle: Committed &nbsp;</td></nobr>  <!--- PDF_REMOVE -->
+<td><nobr>:handshake: Flexible &nbsp;</td></nobr>  <!--- PDF_REMOVE -->
 
 ---------
 
 ### Interests
 
-<td><nobr>:airplane: Travelling &nbsp;</td></nobr>
-<td><nobr>:seedling: Environment &nbsp;</td></nobr>
-<td><nobr>:ramen: Food &nbsp;</td></nobr>
-<ld><nobr>:book: Books &nbsp;</ld></nobr>
-<ld><nobr>:tent: Outdoor activities &nbsp;</ld></nobr>
-<td><nobr>:martial_arts_uniform: Martial arts &nbsp;</td></nobr>
+<!--- PDF_ADD<Team player, fast-learner, creative, committed and flexible.> -->
+
+<td><nobr>:airplane: Travelling &nbsp;</td></nobr>  <!--- PDF_REMOVE -->
+<td><nobr>:seedling: Environment &nbsp;</td></nobr>  <!--- PDF_REMOVE -->
+<td><nobr>:ramen: Food &nbsp;</td></nobr>  <!--- PDF_REMOVE -->
+<ld><nobr>:book: Books &nbsp;</ld></nobr>  <!--- PDF_REMOVE -->
+<ld><nobr>:tent: Outdoor activities &nbsp;</ld></nobr>  <!--- PDF_REMOVE -->
+<td><nobr>:martial_arts_uniform: Martial arts &nbsp;</td></nobr>  <!--- PDF_REMOVE -->
 
 ------
 
