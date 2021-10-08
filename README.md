@@ -27,11 +27,11 @@ Android developer with background on contactless payments, personal health data,
 
 **SQL, RESTful APIs** // Command of relational database and backend services interaction.
 
-**Testing** // Unit, integration and UI tests.
+**Testing** // Experience with unit, integration and UI tests.
 
-**App architecture & design patterns** // App design as well as generic software design patterns.
+**App architecture & design patterns** // Knowledge of app design as well as generic software design patterns.
 
-**Security & Encryption** // Best practices and most common algorithms.
+**Security & Encryption** // Familiarity with best practices and most common algorithms.
 
 ## Technologies
 
@@ -51,19 +51,19 @@ Android developer with background on contactless payments, personal health data,
 
 ## Experience
 
-![](https://img.shields.io/badge/2018-Present-brightgreen) &nbsp; 
+![](https://img.shields.io/badge/2018-Present-brightgreen)\
 **D4L data4life gGmbH** // Senior Android Developer (Personal health data) 
   
-![](https://img.shields.io/badge/2017-2018-brightgreen) &nbsp; 
+![](https://img.shields.io/badge/2017-2018-brightgreen)\
  **Sage** // Android Developer (Accounting) 
 
-![](https://img.shields.io/badge/2012-2017-brightgreen) &nbsp; 
+![](https://img.shields.io/badge/2012-2017-brightgreen)\ 
 **Toro Development Ltd.** // Mobile Developer & NFC Payments engineer (Payments and Loyalty) 
   
-![](https://img.shields.io/badge/2008-2012-brightgreen) &nbsp; 
+![](https://img.shields.io/badge/2008-2012-brightgreen)\
 **SEAT, S.A.** // Project Controller & Application Service Officer (Automotive) 
 
-![](https://img.shields.io/badge/-2008-brightgreen) &nbsp;
+![](https://img.shields.io/badge/-2008-brightgreen)\
  **Capgemini** // C/C++ Junior Software Developer (Power grid management) 
 
 
@@ -74,7 +74,7 @@ Android developer with background on contactless payments, personal health data,
 
 ## Interests
 
-:airplane: Travelling, &nbsp; :seedling: Environment, &nbsp; :ramen: Food, &nbsp; :book: Books, &nbsp; :tent: Outdoor activities, &nbsp; :martial_arts_uniform: (Soft) Martial arts
+:airplane: Travelling, &nbsp; :seedling: Environment, &nbsp; :ramen: Food, &nbsp; :book: Books, &nbsp; :tent: Outdoor activities, &nbsp; :martial_arts_uniform: Martial arts
 
 
 ------
