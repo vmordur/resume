@@ -15,7 +15,6 @@ From sunny Barcelona since 1982
 <ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_cat.svg" width="20" height="10"> Catalan (Native) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
 <ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_uk.svg" width="20" height="10"> English (Advanced) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
 <ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_de.svg" width="20" height="10"> German (Intermediate) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
-<br/>
 
 ---------
 
@@ -26,14 +25,12 @@ Android developer with background on contactless payments, personal health data,
 Loves self-explanatory code and keeping things as simple as then can be. Likes to start small and refactor often. Thinks tests and code reviews are developers best friends.
 
 Enjoys both working together with others as well as handling some tasks autonomously.
-<br/>
 
 ---------
 
 ### Education
 
 **Telecommunications Engineering** // UPC (ETSETB) // _2007_
-<br/>
 
 ---------
 
@@ -52,7 +49,6 @@ Enjoys both working together with others as well as handling some tasks autonomo
 **Conitnuous Integration/Deployment** // Kown-how on automatic build, test, and release pipelines.
 
 **Security & Encryption** // Familiar with best practices and most common algorithms.
-<br/>
 
 ---------
 
@@ -87,7 +83,6 @@ Enjoys both working together with others as well as handling some tasks autonomo
 ![](https://img.shields.io/badge/-OAuth-yellow)&nbsp;![](https://img.shields.io/badge/-JWT-yellow)&nbsp; <!-- PDF_REMOVE -->
 ![](https://img.shields.io/badge/-NFC-9cf)&nbsp;![](https://img.shields.io/badge/-SmartCard_(S/E)_-9cf)&nbsp;![](https://img.shields.io/badge/-HCE-9cf)&nbsp; <!-- PDF_REMOVE -->
 ![](https://img.shields.io/badge/-HL7_FHIR-green) <!-- PDF_REMOVE -->
-<br/>
 
 ---------
 
@@ -100,7 +95,6 @@ Enjoys both working together with others as well as handling some tasks autonomo
 | _2012 - 2017_     |  **Toro Development Ltd.**   |  Payments and Loyalty  | Mobile Developer & NFC Payments engineer.        |
 | _2008 - 2012_     |  **SEAT, S.A.**              |  Automotive            | Project Controller & Application Service Officer |  
 | _2008_            |  **Capgemini**               |  Power grid management | C/C++ Junior Software Developer                  |
-<br/>
 
 --------- 
  
@@ -113,7 +107,6 @@ Enjoys both working together with others as well as handling some tasks autonomo
 <td><nobr>:bulb: Creative &nbsp;</td></nobr>  <!--- PDF_REMOVE --->
 <td><nobr>:muscle: Committed &nbsp;</td></nobr>  <!--- PDF_REMOVE --->
 <td><nobr>:handshake: Flexible &nbsp;</td></nobr>  <!--- PDF_REMOVE --->
-<br/>
 
 ---------
 
@@ -127,7 +120,6 @@ Enjoys both working together with others as well as handling some tasks autonomo
 <ld><nobr>:book: Books &nbsp;</ld></nobr>  <!--- PDF_REMOVE --->
 <ld><nobr>:tent: Outdoor activities &nbsp;</ld></nobr>  <!--- PDF_REMOVE --->
 <td><nobr>:martial_arts_uniform: Martial arts &nbsp;</td></nobr>  <!--- PDF_REMOVE --->
-<br/>
 
 ------
 
