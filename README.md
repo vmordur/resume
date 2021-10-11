@@ -11,10 +11,10 @@ From sunny Barcelona since 1982
 
 <!--- PDF_ADD<Speaks Spanish (Native), Catalan (Native), English (Advanced) and German (Intermediate).!> --->
 
-<ld><nobr>![./images/flag_es.png?raw=true] Spanish (Native) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
-<ld><nobr>![./images/flag_cat.png?raw=true] Catalan (Native) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
-<ld><nobr>![./images/flag_uk.png?raw=true] English (Advanced) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
-<ld><nobr>![./images/flag_de.png?raw=true] German (Intermediate) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
+<ld><nobr>![](./images/flag_es.png?raw=true) Spanish (Native) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
+<ld><nobr>![](./images/flag_cat.png?raw=true) Catalan (Native) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
+<ld><nobr>![](./images/flag_uk.png?raw=true) English (Advanced) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
+<ld><nobr>![](./images/flag_de.png?raw=true) German (Intermediate) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
 
 ---------
 
