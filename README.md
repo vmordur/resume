@@ -22,6 +22,10 @@ From sunny Barcelona since 1982
 
 Android developer with background on contactless payments, personal health data, privacy and encryption.
 
+Loves self-explanatory code and keeping things as simple as then can be. Likes to start small and refactor often. Thinks tests and code reviews are developers best friends.
+
+Enjoys both working together with others as well as handling some tasks autonomously.
+
 ---------
 
 ### Education
@@ -116,6 +120,6 @@ Android developer with background on contactless payments, personal health data,
 <ld><nobr>:tent: Outdoor activities &nbsp;</ld></nobr>  <!--- PDF_REMOVE --->
 <td><nobr>:martial_arts_uniform: Martial arts &nbsp;</td></nobr>  <!--- PDF_REMOVE --->
 
------- <!--- PDF_REMOVE --->
+------ <!-- PDF_REMOVE -->
 
-[Download PDF]() <!--- PDF_REMOVE --->
+[Download PDF]() <!-- PDF_REMOVE -->
