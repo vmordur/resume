@@ -1,0 +1,5 @@
+title: resume
+description: My resume in GitHub Pages.
+markdown: GFM
+include:
+  - README.md
