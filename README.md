@@ -11,10 +11,10 @@ From sunny Barcelona since 1982
 
 <!--- PDF_ADD<Speaks Spanish (Native), Catalan (Native), English (Advanced) and German (Intermediate).!> --->
 
-<ld><nobr><img src="/blob/main/images/flag_es.svg" width="20" height="10"> Spanish (Native) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
-<ld><nobr><img src="/blob/main/images/flag_cat.svg" width="20" height="10"> Catalan (Native) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
-<ld><nobr><img src="/blob/main/images/flag_uk.svg" width="20" height="10"> English (Advanced) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
-<ld><nobr><img src="/blob/main/images/flag_de.svg" width="20" height="10"> German (Intermediate) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_es.svg" width="20" height="10"> Spanish (Native) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_cat.svg" width="20" height="10"> Catalan (Native) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_uk.svg" width="20" height="10"> English (Advanced) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
+<ld><nobr><img src="https://github.com/vmordur/resume/blob/main/images/flag_de.svg" width="20" height="10"> German (Intermediate) &nbsp;</ld></nobr> <!-- PDF_REMOVE -->
 
 ---------
 
