@@ -120,6 +120,6 @@ Enjoys both working together with others as well as handling some tasks autonomo
 <ld><nobr>:tent: Outdoor activities &nbsp;</ld></nobr>  <!--- PDF_REMOVE --->
 <td><nobr>:martial_arts_uniform: Martial arts &nbsp;</td></nobr>  <!--- PDF_REMOVE --->
 
------- <!-- PDF_REMOVE -->
+------
 
 [Download PDF]() <!-- PDF_REMOVE -->
