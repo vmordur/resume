@@ -116,6 +116,6 @@ Android developer with background on contactless payments, personal health data,
 <ld><nobr>:tent: Outdoor activities &nbsp;</ld></nobr>  <!--- PDF_REMOVE --->
 <td><nobr>:martial_arts_uniform: Martial arts &nbsp;</td></nobr>  <!--- PDF_REMOVE --->
 
-------
+------ <!--- PDF_REMOVE --->
 
-[Download PDF]()
+[Download PDF]() <!--- PDF_REMOVE --->

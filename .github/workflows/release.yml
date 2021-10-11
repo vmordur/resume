@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Remove swag line
+      - name: Prepare text-only pdf version
         run: mkdir in && cat README.md | awk '{a=1} /PDF_ADD</ { if(match($0,/PDF_ADD<(.*)!>/)) { print substr($0, RSTART+8, RLENGTH-10); a=0 } } /PDF_REMOVE/ {a=0} a' > ./in/pdf_source.md
       - name: Build PDF from Markdown
         uses: BaileyJM02/markdown-to-pdf@v1
