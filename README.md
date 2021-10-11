@@ -5,7 +5,7 @@
 [victor.mordur@gmail.com](victor.mordur@gmail.com)  
  +34 609 24 29 73
  
- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp; ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <!-- PDF_REMOVE -->
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-moreno-dura-62833b17) &nbsp; [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vmordur) <!-- PDF_REMOVE -->
 
 From sunny Barcelona since 1982
 
@@ -24,7 +24,7 @@ Android developer with background on contactless payments, personal health data,
 
 Loves self-explanatory code and keeping things as simple as then can be. Likes to start small and refactor often. Thinks tests and code reviews are developers best friends.
 
-Enjoys both working together with others as well as handling some tasks autonomously.
+Enjoys both working together with others as well as handling tasks autonomously.
 
 ---------
 
@@ -123,4 +123,4 @@ Enjoys both working together with others as well as handling some tasks autonomo
 
 ------
 
-[Download PDF]() <!-- PDF_REMOVE -->
+[Download PDF](https://github.com/vmordur/resume/releases/latest/download/victor_moreno_resume.pdf) <!-- PDF_REMOVE -->
