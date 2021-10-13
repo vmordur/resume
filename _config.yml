@@ -1,5 +1,8 @@
 plugins:
   - jemoji
-markdown: GFM
+markdown: kramdown
+kramdown:
+  auto_ids: false
+  input: GFM
 include:
   - README.md
