@@ -22,7 +22,7 @@ From sunny Barcelona since 1982
 
 Android developer with background on contactless payments, personal health data, privacy and encryption.
 
-Loves self-explanatory code and keeping things as simple as then can be. Likes to start small and refactor often. Thinks tests and code reviews are developers best friends.
+Loves self-explanatory code and keeping things as simple as they can be. Likes to start small and refactor often. Thinks tests and code reviews are developers best friends.
 
 Enjoys both working together with others as well as handling tasks autonomously.
 
@@ -90,7 +90,7 @@ Enjoys both working together with others as well as handling tasks autonomously.
 
 | Period | Company | Industry | Position |
 | --- | --- | --- | --- |
-| _2018 - Present_  |  **D4L data4life gGmbH**     |  Personal health data  | Senior Android Developer                         | 
+| _2018 - 2021      |  **D4L data4life gGmbH**     |  Personal health data  | Senior Android Developer                         | 
 | _2017 - 2018_     |  **Sage**                    |  Accounting            | Android Developer                                |
 | _2012 - 2017_     |  **Toro Development Ltd.**   |  Payments and Loyalty  | Mobile Developer & NFC Payments engineer.        |
 | _2008 - 2012_     |  **SEAT, S.A.**              |  Automotive            | Project Controller & Application Service Officer |  
