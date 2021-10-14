@@ -52,9 +52,8 @@ Enjoys both working together with others as well as handling tasks autonomously.
 
 ---------
 
-<!--- PDF_ADD<- </br> !> --->
-<!--- PDF_ADD<- </br> !> --->
-<!--- PDF_ADD<- </br> !> --->
+<!--- PDF_ADD<- <br />  !> --->
+<!--- PDF_ADD<- <br />  !> --->
 
 ### Technologies
 
